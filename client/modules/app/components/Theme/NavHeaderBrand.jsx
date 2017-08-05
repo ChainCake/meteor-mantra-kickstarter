@@ -4,7 +4,7 @@ export default class extends React.Component {
 
   render() {
     return (
-      <span>MANTRA KICKSTARTER</span>
+      <span>Chain Cake</span>
     );
   }
 }
